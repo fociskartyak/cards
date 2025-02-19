@@ -50,6 +50,20 @@ header h1 {
   font-size: 1.2rem;
 }
 
+/* Kép alatti információk stílusa */
+.image-info {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.image-info p {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+}
+
 /* Reszponzív dizájn */
 @media (max-width: 768px) {
   #card-list {
